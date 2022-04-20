@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on scanning 500+ rolls of 35mm film for slideshows from 1990 thru 2006
+- 💬 Ask me about any place covered by one of the existing slideshows
 - 📫 How to reach me: deblaschke@yahoo.com
 
 <!--
