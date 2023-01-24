@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on scanning 500+ rolls of 35mm film for slideshows from 1989 thru 2006
-- 💬 Ask me about any place appearing in the slideshows, I've probably spent more time planning our travels than actually traveling and am blessed (or cursed) with a photographic memory...
+- 🔭 I’m currently working on scanning 500+ rolls of 35mm film for slideshows from 1989 thru 2006 (now complete through 1999)
+- 💬 Ask me about any place appearing in the slideshows, I've probably spent more time planning our travels than actually traveling and am blessed (or cursed) with a photographic memory, so I can probably answer most questions (or at least make up sometyhing that sounds good 😉)
 - 📷 Slideshows can be accessed here: https://deblaschke.github.io/travel-slideshows/
 - 📫 How to reach me: deblaschke@yahoo.com
 
