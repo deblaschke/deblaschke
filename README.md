@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on scanning 509 rolls of 35mm film for travel slideshows from 1989 thru 2006 (UPDATE: completed on Earth Day 2023 :earth_americas:)
-- 💬 Ask me about any place appearing in the travel slideshows, I've probably spent more time planning our travels than actually traveling and am blessed/cursed with a photographic memory, so I can probably answer most questions regarding when, where, how, etc. (or at least make up something that sounds good 😉)
+- 💬 Ask me about any place appearing in the travel slideshows, I've spent more time planning our travels than actually traveling and am blessed/cursed with a photographic memory, so I can probably answer most questions regarding when, where, how, etc. (or at least make up something that sounds good 😉)
 - 📷 Travel slideshows can be accessed here: https://deblaschke.github.io/travel-slideshows/
 - 🎥 Dashboard camera videos of the more beautiful drives we have traveled can be accessed here: https://www.youtube.com/@deblaschke
 - 📫 How to reach me: deblaschke@yahoo.com
