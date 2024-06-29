@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on color correcting photographs scanned from decades-old film (completed 1989-1991)... those reds really take over as the years roll by!
 - 💬 Please feel free to ask me about any place appearing in the travel slideshows, I've spent more time planning our travels than actually traveling and am blessed/cursed with a photographic memory, so I can probably answer most questions regarding what, when, where, etc. (or at least make up something that sounds good 😉)
 - 📷 Travel slideshows can be accessed here: https://deblaschke.github.io/travel-slideshows/
-- 📷 Travel slideshows grouped by regions can be accessed here: https://deblaschke.github.io/travel-slideshows/REGIONS/
+- 📷 Concert slideshows can be accessed here: https://deblaschke.github.io/concert-slideshows/
 - 🎥 Dashboard camera videos of the more beautiful drives we have traveled can be accessed here: https://www.youtube.com/@deblaschke
 - 📫 How to reach me: deblaschke@yahoo.com
 
