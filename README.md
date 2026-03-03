@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on creating a slideshow of all my astronomy and space-related photographs (UPDATE: completed May 19, 2024 :rocket: slideshow can be accessed here: https://deblaschke.github.io/space-slideshow/)
 - 🔭 I’m currently working on creating slideshows of all my concert photographs (UPDATE: completed June 22, 2024 :guitar: slideshows can be accessed here: https://deblaschke.github.io/concert-slideshows/)
 - 🔭 I’m currently working on creating a slideshow of all photographs from Spingtime in the Texas Hill Country (UPDATE: completed June 29, 2024 :blossom: slideshow can be accessed here: https://deblaschke.github.io/flower-slideshow/)
+- 🔭 I’m currently working on creating a slideshow of all photographs from Christmastime in the Texas Hill Country (UPDATE: completed November 26, 2025 :christmas_tree: slideshow can be accessed here: https://deblaschke.github.io/holiday-slideshow/)
